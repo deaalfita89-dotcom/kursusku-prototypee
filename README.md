@@ -1,23 +1,19 @@
-# Kursusku Prototype
+* Kursusku Prototype
 
-Kursusku Prototype adalah aplikasi web sederhana berbasis PHP yang dibuat untuk latihan pengembangan aplikasi web menggunakan PHP dan Laragon.
+ursusku Prototype adalah rancangan awal atau contoh tampilan dari sistem Kursusku, yaitu platform/aplikasi yang digunakan untuk mengelola dan menyediakan layanan kursus secara online.
 
-## Fitur
+* Fitur Utama Kursusku
 
-Aplikasi ini memiliki beberapa fitur utama:
-
-- Katalog kursus
-- Minimal 6 pilihan kursus
-- Status kursus Tersedia dan Penuh
-- Tampilan responsif untuk desktop dan mobile
-- Informasi waktu server
-- Kalkulator biaya kursus
-- Perhitungan diskon
-- Format mata uang Rupiah
-- Pengujian fungsi PHP
-- Dokumentasi screenshot/evidence
-
-## Teknologi
+- Login & Register — pengguna dapat membuat akun dan masuk ke sistem.
+- Dashboard — menampilkan informasi kursus dan aktivitas pengguna.
+- Daftar Kursus — menampilkan kursus yang tersedia.
+- Detail Kursus — menampilkan informasi lengkap dari kursus.
+- Pendaftaran Kursus — pengguna dapat memilih kursus yang ingin diikuti.
+- Materi Kursus — pengguna dapat mengakses materi pembelajaran.
+- Progress Belajar— melihat perkembangan pembelajaran.
+- Kuis— mengerjakan soal untuk menguji pemahaman.
+- Sertifikat— mendapatkan sertifikat setelah kursus selesai.
+- Profil — pengguna dapat mengelola informasi akun.
 
 Teknologi yang digunakan:
 
@@ -30,7 +26,7 @@ Teknologi yang digunakan:
 - Git
 - GitHub
 
-## Struktur Project
+* Struktur Project
 
 ```text
 kursusku-prototype/
