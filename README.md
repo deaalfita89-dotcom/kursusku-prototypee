@@ -1,1 +1,1 @@
-# kursusku-prototypee
+# kursusku-prototype
