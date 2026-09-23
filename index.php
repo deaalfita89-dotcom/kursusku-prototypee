@@ -69,7 +69,7 @@ if (isset($_GET['q'])) {
             margin: 0;
         }
 
-        .info {                                                                              
+        .info {
             margin-top: 20px;
             font-size: 18px;
             line-height: 1.6;
